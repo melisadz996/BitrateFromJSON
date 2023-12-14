@@ -1,0 +1,17 @@
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.AssemblyInfoInputs.cache
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.AssemblyInfo.cs
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.csproj.CoreCompileInputs.cache
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\bin\Debug\net8.0\CalculateBitrateFromJSON.exe
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\bin\Debug\net8.0\CalculateBitrateFromJSON.deps.json
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\bin\Debug\net8.0\CalculateBitrateFromJSON.runtimeconfig.json
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\bin\Debug\net8.0\CalculateBitrateFromJSON.dll
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\bin\Debug\net8.0\CalculateBitrateFromJSON.pdb
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.csproj.AssemblyReference.cache
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.csproj.CopyComplete
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.dll
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\refint\CalculateBitrateFromJSON.dll
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.pdb
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.genruntimeconfig.cache
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\ref\CalculateBitrateFromJSON.dll
