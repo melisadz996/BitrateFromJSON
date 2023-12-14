@@ -15,3 +15,4 @@ C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\ob
 C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.pdb
 C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.genruntimeconfig.cache
 C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\ref\CalculateBitrateFromJSON.dll
+C:\Users\Dzeko\source\repos\CalculateBitrateFromJSON\CalculateBitrateFromJSON\obj\Debug\net8.0\CalculateBitrateFromJSON.sourcelink.json

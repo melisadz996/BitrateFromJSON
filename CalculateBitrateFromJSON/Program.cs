@@ -46,17 +46,12 @@ namespace CalculateBitrateFromJSON
             double bitrateTx1 = Convert.ToUInt64(nic["Tx"]) * 8 / pollingRate / 1000000;
             Console.WriteLine($"Parse1 Bitrate for {nic["Description"]} - Rx: {bitrateRx1} Mbps, Tx: {bitrateTx1} Mbps");
 
-            // Parse JSON using dynamic
-            dynamic dataParse2 = JsonConvert.DeserializeObject(jsonData);
-            double bitrateRx2 = Convert.ToUInt64(dataParse2.NIC.Rx) * 8 / pollingRate / 1000000;
-            double bitrateTx2 = Convert.ToUInt64(dataParse2.NIC.Tx) * 8 / pollingRate / 1000000;
-            Console.WriteLine($"Parse2 Bitrate for {dataParse2.NIC.Description} - Rx: {bitrateRx2} Mbps, Tx: {bitrateTx2} Mbps");
 
             // Parse JSON using NICData class
-            NICData dataParse3 = JsonConvert.DeserializeObject<NICData>(jsonData);
-            double bitrateRx3 = Convert.ToUInt64(dataParse3.NIC.Rx) * 8 / pollingRate / 1000000;
-            double bitrateTx3 = Convert.ToUInt64(dataParse3.NIC.Tx) * 8 / pollingRate / 1000000 ;
-            Console.WriteLine($"Parse3 Bitrate for {dataParse3.NIC.Description} - Rx: {bitrateRx3} Mbps, Tx: {bitrateTx3} Mbps");
+            NICData dataParse2 = JsonConvert.DeserializeObject<NICData>(jsonData);
+            double bitrateRx2 = Convert.ToUInt64(dataParse2.NIC.Rx) * 8 / pollingRate / 1000000;
+            double bitrateTx2 = Convert.ToUInt64(dataParse2.NIC.Tx) * 8 / pollingRate / 1000000 ;
+            Console.WriteLine($"Parse3 Bitrate for {dataParse2.NIC.Description} - Rx: {bitrateRx2} Mbps, Tx: {bitrateTx2} Mbps");
 
             Console.ReadLine();
         }

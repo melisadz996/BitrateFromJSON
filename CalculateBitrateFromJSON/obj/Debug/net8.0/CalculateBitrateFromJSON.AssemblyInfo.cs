@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculateBitrateFromJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2afd029fdbf14f42032d3dbf46979fce383736ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculateBitrateFromJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculateBitrateFromJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
